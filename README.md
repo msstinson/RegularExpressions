@@ -1,4 +1,4 @@
-# Regular Expressions
+# Regular Expressions.
 
 # Resources
 * Tester https://regex101.com/
